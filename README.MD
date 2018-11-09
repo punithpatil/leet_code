@@ -10,7 +10,9 @@ LeetCode
 |78	|[Subsets](https://leetcode.com/problems/subsets/)|[Python3](./algorithms/python/78_subsets.py)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[Python3](./algorithms/python/110_balanced_binary_tree.py)|Easy|
 |121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python3](./algorithms/python/121_best_time_to_buy_and_sell_stock.py)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python3](./algorithms/python/204_count_primes.py)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python3](./algorithms/python/258_add_digits.py)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python3](./algorithms/python/263_ugly_number.py)||
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[Python3](./algorithms/python/415_add_strings.py)|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python3](./algorithms/python/441_arranging_coins.py)|Easy|
 |455|[Assign Cookies]( https://leetcode.com/problems/assign-cookies/)|[Python3](./algorithms/python/455_assign_cookies.py)|Easy|
@@ -23,4 +25,4 @@ LeetCode
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python3](./algorithms/python/783_minimum_distance_between_bst_nodes.py)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python3](./algorithms/python/844_backspace_string_compare.py)|Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap)|[Python3](./algorithms/python/868_binary_gap.py)|Easy|
-||[]()|[]()||
+||[]()|[Python3](./algorithms/python/)||
