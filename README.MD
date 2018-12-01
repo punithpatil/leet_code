@@ -6,6 +6,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |2	|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)													|[Python3](./algorithms/python/2_add_two_numbers.py)											|Medium|
+|70 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)													|[Python3](./algorithms/python/70_climbing_stairs.py)											|Easy|
 |67	|[Add Binary](https://leetcode.com/problems/add-binary/)															|[Python3](./algorithms/python/67_add_binary.py)												|Easy|
 |78	|[Subsets](https://leetcode.com/problems/subsets/)																	|[Python3](./algorithms/python/78_subsets.py)													|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)				|[Python3](./algorithms/python/102_binary_tree_level_order_traversal.py)						|Easy|
@@ -24,7 +25,7 @@ LeetCode
 |561|[Array Partition 1](https://leetcode.com/problems/array-partition-i/)												|[Python3](./algorithms/python/561_array_partition_1.py)										|Easy|
 |637|[Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)				|[Python3](./algorithms/python/637_average_of_levels_in_binary_tree.py)							|Easy|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother)														|[Python3](./algorithms/python/661_image_smoother.py)											|Easy|
-|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)|			[Python3](./algorithms/python/693_binary_number_with_alternating_bits.py)						|Easy|
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)			|[Python3](./algorithms/python/693_binary_number_with_alternating_bits.py)						|Easy|
 |695|[Max Area Of Island](https://leetcode.com/problems/max-area-of-island/)											|[Python3](./algorithms/python/695_max_area_of_island.py)										|Medium|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)			|[Python3](./algorithms/python/783_minimum_distance_between_bst_nodes.py)						|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)								|[Python3](./algorithms/python/844_backspace_string_compare.py)									|Easy|
