@@ -6,6 +6,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |2	|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)													|[Python3](./algorithms/python/2_add_two_numbers.py)											|Medium|
+|35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)									|[Python3](./algorithms/python/35_search_insert_position.py)									|Easy|
 |70 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)													|[Python3](./algorithms/python/70_climbing_stairs.py)											|Easy|
 |67	|[Add Binary](https://leetcode.com/problems/add-binary/)															|[Python3](./algorithms/python/67_add_binary.py)												|Easy|
 |78	|[Subsets](https://leetcode.com/problems/subsets/)																	|[Python3](./algorithms/python/78_subsets.py)													|Medium|
