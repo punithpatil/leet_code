@@ -18,6 +18,7 @@ LeetCode
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)					|[Python3](./algorithms/python/215_kth_largest_element_is_an_array.py)							|Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)															|[Python3](./algorithms/python/258_add_digits.py)												|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)															|[Python3](./algorithms/python/263_ugly_number.py)												|Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)			|[Python3](./algorithms/python/387_first_unique_character_in_a_string.py)						|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)															|[Python3](./algorithms/python/415_add_strings.py)												|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)													|[Python3](./algorithms/python/441_arranging_coins.py)											|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python3](./algorithms/python/448_find_all_numbers_disappeared_in_an_array.p)					|Easy|
