@@ -37,4 +37,5 @@ LeetCode
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)			|[Python3](./algorithms/python/783_minimum_distance_between_bst_nodes.py)						|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)								|[Python3](./algorithms/python/844_backspace_string_compare.py)									|Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap)																|[Python3](./algorithms/python/868_binary_gap.py)												|Easy|
+|876|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)												|[Python3](./algorithms/python/876_transpose_matrix.py)											|Easy|
 ||[]()|[Python3](./algorithms/python/)||
