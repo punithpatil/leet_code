@@ -27,6 +27,7 @@ LeetCode
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python3](./algorithms/python/448_find_all_numbers_disappeared_in_an_array.p)					|Easy|
 |455|[Assign Cookies]( https://leetcode.com/problems/assign-cookies/)													|[Python3](./algorithms/python/455_assign_cookies.py)											|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)									|[Python3](./algorithms/python/496_next_greater_element_1.py)									|Easy|
+|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)									|[Python3](./algorithms/python/503_next_greater_element_2.py)									|Medium|
 |504|[Base 7]( https://leetcode.com/problems/base-7/)																	|[Python3](./algorithms/python/504_base_7.py)													|Easy|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)			|[Python3](./algorithms/python/530_minimum_absolute_differenct_in_BST.py)						|Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)							|[Python3](./algorithms/python/538_convert_bst_to_greater_tree.py)								|Easy|
