@@ -36,6 +36,7 @@ LeetCode
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother)														|[Python3](./algorithms/python/661_image_smoother.py)											|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)			|[Python3](./algorithms/python/693_binary_number_with_alternating_bits.py)						|Easy|
 |695|[Max Area Of Island](https://leetcode.com/problems/max-area-of-island/)											|[Python3](./algorithms/python/695_max_area_of_island.py)										|Medium|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)					|[Python3](./algorithms/python/700_search_in_a_binary_search_tree.py)							|Easy|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)			|[Python3](./algorithms/python/783_minimum_distance_between_bst_nodes.py)						|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)								|[Python3](./algorithms/python/844_backspace_string_compare.py)									|Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap)																|[Python3](./algorithms/python/868_binary_gap.py)												|Easy|
