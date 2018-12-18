@@ -43,4 +43,5 @@ LeetCode
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)								|[Python3](./algorithms/python/844_backspace_string_compare.py)									|Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap)																|[Python3](./algorithms/python/868_binary_gap.py)												|Easy|
 |876|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)												|[Python3](./algorithms/python/876_transpose_matrix.py)											|Easy|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)										|[Python3](./algorithms/python/941_valid_mountain_array.py)										|Easy|
 ||[]()|[Python3](./algorithms/python/)||
