@@ -18,6 +18,7 @@ LeetCode
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)											|[Python3](./algorithms/python/110_balanced_binary_tree.py)										|Easy|
 |121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)					|[Python3](./algorithms/python/121_best_time_to_buy_and_sell_stock.py)							|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)										|[Python3](./algorithms/python/142_linked_list_cycle_2.py)										|Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)												|[Python3](./algorithms/python/169_majority_element.py)											|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)														|[Python3](./algorithms/python/204_count_primes.py)												|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)					|[Python3](./algorithms/python/215_kth_largest_element_is_an_array.py)							|Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)															|[Python3](./algorithms/python/258_add_digits.py)												|Easy|
