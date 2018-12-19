@@ -18,6 +18,7 @@ LeetCode
 |98 |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)							|[Python3](./algorithms/python/98_validate_binary_search_tree.py)								|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)																|[Python3](./algorithms/python/100_same_tree.py)												|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)				|[Python3](./algorithms/python/102_binary_tree_level_order_traversal.py)						|Easy|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python3](./algorithms/python/103_binary_tree_zigzag_level_order_traversal.py)					|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)											|[Python3](./algorithms/python/110_balanced_binary_tree.py)										|Easy|
 |121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)					|[Python3](./algorithms/python/121_best_time_to_buy_and_sell_stock.py)							|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)										|[Python3](./algorithms/python/142_linked_list_cycle_2.py)										|Medium|
