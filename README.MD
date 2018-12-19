@@ -12,6 +12,7 @@ LeetCode
 |40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)											|[Python3](./algorithms/python/40_combination_sum_2.py)											|Medium|
 |70 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)													|[Python3](./algorithms/python/70_climbing_stairs.py)											|Easy|
 |67	|[Add Binary](https://leetcode.com/problems/add-binary/)															|[Python3](./algorithms/python/67_add_binary.py)												|Easy|
+|73 |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)												|[Python3](./algorithms/python/73_set_matrix_zeroes.py)											|Medium|
 |77	|[Combinations](https://leetcode.com/problems/combinations/)														|[Python3](./algorithms/python/77_combinations.py)												|Medium|
 |78	|[Subsets](https://leetcode.com/problems/subsets/)																	|[Python3](./algorithms/python/78_subsets.py)													|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)																|[Python3](./algorithms/python/100_same_tree.py)												|Easy|
