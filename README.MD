@@ -22,6 +22,7 @@ LeetCode
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)											|[Python3](./algorithms/python/110_balanced_binary_tree.py)										|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)						|[Python3](./algorithms/python/111_minimum_depth_of_binary_tree.py)								|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)																|[Python3](./algorithms/python/112_path_sum.py)													|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)															|[Python3](./algorithms/python/113_path_sum_2.py)												|Medium|
 |121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)					|[Python3](./algorithms/python/121_best_time_to_buy_and_sell_stock.py)							|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)										|[Python3](./algorithms/python/142_linked_list_cycle_2.py)										|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)												|[Python3](./algorithms/python/169_majority_element.py)											|Easy|
