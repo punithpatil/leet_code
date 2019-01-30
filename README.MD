@@ -10,7 +10,7 @@ LeetCode
 |35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)									|[Python3](./algorithms/python/35_search_insert_position.py)									|Easy|
 |39	|[Combination Sum](https://leetcode.com/problems/combination-sum/)													|[Python3](./algorithms/python/39_combination_sum.py)											|Meduim|
 |40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)											|[Python3](./algorithms/python/40_combination_sum_2.py)											|Medium|
-|70 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)													|[Python3](./algorithms/python/70_climbing_stairs.py)											|Easy|
+|70 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)													|[Python3](./algorithms/python/70_climbing_stairs.py)[v2](./algorithms/python/v2/70_climbing_stairs.py)											|Easy|
 |67	|[Add Binary](https://leetcode.com/problems/add-binary/)															|[Python3](./algorithms/python/67_add_binary.py)												|Easy|
 |73 |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)												|[Python3](./algorithms/python/73_set_matrix_zeroes.py)											|Medium|
 |77	|[Combinations](https://leetcode.com/problems/combinations/)														|[Python3](./algorithms/python/77_combinations.py)												|Medium|
@@ -56,3 +56,4 @@ LeetCode
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)													|[Python3](./algorithms/python/896_monotonic_array.py)											|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)										|[Python3](./algorithms/python/941_valid_mountain_array.py)										|Easy|
 ||[]()|[Python3](./algorithms/python/)||
+||[]()|[Python3](./algorithms/python/v2)||
