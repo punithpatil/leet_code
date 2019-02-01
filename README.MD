@@ -29,6 +29,7 @@ LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)												|[Python3](./algorithms/python/169_majority_element.py)											|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)														|[Python3](./algorithms/python/204_count_primes.py)												|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)											|[Python3](./algorithms/python/206_reverse_linked_list.py)										|Easy|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)													|[Python3](./algorithms/python/207_course_schedule.py)											|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)					|[Python3](./algorithms/python/215_kth_largest_element_is_an_array.py)							|Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)															|[Python3](./algorithms/python/258_add_digits.py)												|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)															|[Python3](./algorithms/python/263_ugly_number.py)												|Easy|
