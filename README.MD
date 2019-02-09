@@ -8,6 +8,7 @@ LeetCode
 |2	|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)													|[Python3](./algorithms/python/2_add_two_numbers.py)																								|Medium|
 |20 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)												|[Python3](./algorithms/python/20_valid_parentheses.py)																								|Easy|
 |21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)									|[Python3](./algorithms/python/21_merge_two_sorted_lists.py)																						|Easy|
+|32 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)								|[Python3](./algorithms/python/32_longest_valid_parentheses.py)																						|Hard|
 |35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)									|[Python3](./algorithms/python/35_search_insert_position.py)																						|Easy|
 |39	|[Combination Sum](https://leetcode.com/problems/combination-sum/)													|[Python3](./algorithms/python/39_combination_sum.py)																								|Meduim|
 |40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)											|[Python3](./algorithms/python/40_combination_sum_2.py)																								|Medium|
