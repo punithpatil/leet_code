@@ -17,6 +17,7 @@ LeetCode
 |73 |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)												|[Python3](./algorithms/python/73_set_matrix_zeroes.py)																								|Medium|
 |77	|[Combinations](https://leetcode.com/problems/combinations/)														|[Python3](./algorithms/python/77_combinations.py)																									|Medium|
 |78	|[Subsets](https://leetcode.com/problems/subsets/)																	|[Python3](./algorithms/python/78_subsets.py)																										|Medium|
+|83 |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)			|[Python3](./algorithms/python/83_remove_duplicates_from_sorted_list.py)																			|Easy|
 |98 |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)							|[Python3](./algorithms/python/98_validate_binary_search_tree.py)																					|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)																|[Python3](./algorithms/python/100_same_tree.py)																									|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)				|[Python3](./algorithms/python/102_binary_tree_level_order_traversal.py)																			|Easy|
@@ -33,6 +34,7 @@ LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)											|[Python3](./algorithms/python/206_reverse_linked_list.py)																							|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)													|[Python3](./algorithms/python/207_course_schedule.py)																								|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)					|[Python3](./algorithms/python/215_kth_largest_element_is_an_array.py)																				|Medium|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)											|[Python3](./algorithms/python/226_invert_binary_tree.py)																							|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)															|[Python3](./algorithms/python/258_add_digits.py)																									|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)															|[Python3](./algorithms/python/263_ugly_number.py)																									|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)			|[Python3](./algorithms/python/387_first_unique_character_in_a_string.py)																			|Easy|
