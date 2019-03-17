@@ -28,7 +28,7 @@ LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)						|[Python3](./algorithms/python/111_minimum_depth_of_binary_tree.py)																					|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)																|[Python3](./algorithms/python/112_path_sum.py)																										|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)															|[Python3](./algorithms/python/113_path_sum_2.py)																									|Medium|
-|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)			|[Python3](./algorithms/python/114_flatten_binary_tree_to_linked_list.py)																			|Medium|	|O(n)|	|O(1)|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)			|[Python3](./algorithms/python/114_flatten_binary_tree_to_linked_list.py)																			|Medium		|O(n)	|O(1)|
 |121|[Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)					|[Python3](./algorithms/python/121_best_time_to_buy_and_sell_stock.py)																				|Easy|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)								|[Python3](./algorithms/python/129_sum_root_to_leaf_numbers.p)																						|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)										|[Python3](./algorithms/python/142_linked_list_cycle_2.py)																							|Medium|
@@ -64,5 +64,5 @@ LeetCode
 |876|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)												|[Python3](./algorithms/python/876_transpose_matrix.py)																								|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)													|[Python3](./algorithms/python/896_monotonic_array.py)																								|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)										|[Python3](./algorithms/python/941_valid_mountain_array.py)																							|Easy|
-||[]()|[Python3](./algorithms/python/)||||||
-||[]()|[Python3](./algorithms/python/v2)|||||
+||[]()|[Python3](./algorithms/python/)||||
+||[]()|[Python3](./algorithms/python/v2)|||
