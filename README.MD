@@ -9,6 +9,7 @@ LeetCode
 |4	|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)							|[Python3](./algorithms/python/4_median_of_two_sorted_arrays.py)																					|Hard|
 |20 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)												|[Python3](./algorithms/python/20_valid_parentheses.py)																								|Easy|
 |21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)									|[Python3](./algorithms/python/21_merge_two_sorted_lists.py)																						|Easy|
+|23 |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)										|[Python3](./algorithms/python/23_merge_k_sorted_lists.py)																							|Hard|
 |32 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)								|[Python3](./algorithms/python/32_longest_valid_parentheses.py)																						|Hard|
 |35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)									|[Python3](./algorithms/python/35_search_insert_position.py)																						|Easy|
 |39	|[Combination Sum](https://leetcode.com/problems/combination-sum/)													|[Python3](./algorithms/python/39_combination_sum.py)																								|Meduim|
