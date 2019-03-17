@@ -42,6 +42,7 @@ LeetCode
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)			|[Python3](./algorithms/python/387_first_unique_character_in_a_string.py)																			|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)															|[Python3](./algorithms/python/415_add_strings.py)																									|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)				|[Python3](./algorithms/python/429_n-ary_tree_level_order_traversal.py)																				|Easy|
+|430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)	|[Python3](./algorithms/python/430_flatten_a_multilevel_doubly_linked_list.py)																		|Medium|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)													|[Python3](./algorithms/python/441_arranging_coins.py)																								|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python3](./algorithms/python/448_find_all_numbers_disappeared_in_an_array.p)																		|Easy|
 |455|[Assign Cookies]( https://leetcode.com/problems/assign-cookies/)													|[Python3](./algorithms/python/455_assign_cookies.py)																								|Easy|
